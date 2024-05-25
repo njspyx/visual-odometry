@@ -1,0 +1,6 @@
+Oxford_dataset_reduced/*/
+preprocessed-data/
+venv/
+point_correspondences.json
+__pycache__/
+.DS_Store
